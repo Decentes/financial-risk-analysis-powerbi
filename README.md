@@ -4,7 +4,7 @@
 This project explores financial risk patterns in a sample dataset to understand repayment behavior and risk segmentation.
 
 ## Dataset
-The dataset contains information on customer profiles, loan amounts, and repayment status.
+This project uses a publicly available loan dataset containing customer demographics, loan details, and repayment outcomes.
 
 ## Tools Used
 - Power BI
